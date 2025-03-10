@@ -15,15 +15,6 @@ O **Conta Calorias** é um aplicativo desenvolvido para ajudar os usuários a mo
 - Calcule a **ingestão calórica necessária** com base em seu perfil.  
 - Acompanhe as **calorias consumidas ao longo do dia**.  
 
-### **Tecnologias Utilizadas** 🛠️  
-- **.NET MAUI:**
-- **C#:** Linguagem de programação usada para a lógica do aplicativo.  
-- **XAML:** Linguagem para definir a interface do usuário.  
-- **SQLite:** Para armazenamento de dados locais.  
-- **Visual Studio** (com suporte para .NET MAUI).  
-- **.NET SDK 7**
-- **Emulador Android/iOS**
-
 ---
 
 ## **Funcionalidades** ✨  
