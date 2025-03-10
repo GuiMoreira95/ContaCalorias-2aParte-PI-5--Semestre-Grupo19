@@ -67,7 +67,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 ContaCalorias. Todos os direitos reservados.</p>
+        <p>&copy; 2025 ContaCalorias. Todos os direitos reservados.</p>
     </footer>
 
     <script src="script.js"></script>
