@@ -16,13 +16,13 @@ O **Conta Calorias** é um aplicativo desenvolvido para ajudar os usuários a mo
 - Acompanhe as **calorias consumidas ao longo do dia**.  
 
 ### **Tecnologias Utilizadas** 🛠️  
-- **.NET MAUI:** Framework multiplataforma para criar aplicativos nativos.  
+- **.NET MAUI:**
 - **C#:** Linguagem de programação usada para a lógica do aplicativo.  
 - **XAML:** Linguagem para definir a interface do usuário.  
-- **SQLite (ou outro banco de dados):** Para armazenamento de dados locais.  
+- **SQLite:** Para armazenamento de dados locais.  
 - **Visual Studio** (com suporte para .NET MAUI).  
-- **.NET SDK 7** ou superior.  
-- **Emulador Android/iOS** ou um dispositivo físico para testes.  
+- **.NET SDK 7**
+- **Emulador Android/iOS**
 
 ---
 
@@ -95,11 +95,6 @@ Personaliza objetivos e ajuda a monitorar progressos diários, oferecendo estrat
 
 ---
 
-## **Contato** 📬  
-- **E-mail:** marcelopazetti90@gmail.com  
-- **GitHub:** [M-Pazetti/2a-Fase-PI-5-Semestre](https://github.com/M-Pazetti/2a-Fase-PI-5-Semestre)  
-
-
 # Projeto ContaCalorias - Fase 2
 
 Este repositório contém a segunda fase do desenvolvimento do aplicativo **ContaCalorias**, um projeto de saúde e bem-estar que permite calcular o IMC, registrar alimentos ingeridos e exercícios realizados, além de calcular o saldo de calorias diárias.
@@ -139,6 +134,6 @@ O desenvolvimento da segunda fase foi realizado por uma equipe dedicada, com as 
 - **SQLite**: Banco de dados para armazenamento local de dados do usuário.
 - **GitHub**: Para versionamento de código e colaboração entre os membros da equipe.
 
-## Planejamento da Fase 3
-
-A fase seguinte do projeto será dedicada à otimização do aplicativo, integração com backend (se necessário), implementação de mais funcionalidades (como monitoramento de dieta e exercícios ao longo do tempo) e testes para garantir a robustez do aplicativo em diferentes dispositivos e sistemas operacionais.
+## **Contato** 📬  
+- **E-mail:** marcelopazetti90@gmail.com  
+- **GitHub:** [M-Pazetti/2a-Fase-PI-5-Semestre](https://github.com/M-Pazetti/2a-Fase-PI-5-Semestre)  
