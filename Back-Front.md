@@ -292,14 +292,17 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 
-## CSS
+# CSS
 
+```css
+/* Reset e Box-Sizing */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* Estilo geral do corpo */
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #f0f0f0;
@@ -312,6 +315,7 @@ body {
   align-items: center;
 }
 
+/* Estilo para o cabeçalho */
 header {
   width: 100%;
   background-color: #003366;
@@ -321,6 +325,7 @@ header {
   flex-shrink: 0;
 }
 
+/* Estilo para o rodapé */
 footer {
   width: 100%;
   background-color: #003366;
@@ -331,6 +336,7 @@ footer {
   font-size: 0.8em;
 }
 
+/* Caixa de interação */
 .interaction-box {
   width: 100%;
   max-width: 600px;
@@ -343,18 +349,21 @@ footer {
   box-sizing: border-box;
 }
 
+/* Estilo para o título principal */
 h1 {
   color: #fff;
   margin: 0;
   font-size: 2.5em;
 }
 
+/* Estilo para os subtítulos */
 h2, h3 {
   color: #003366;
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* Estilo para os botões */
 button {
   background-color: #003366;
   color: #fff;
@@ -373,10 +382,68 @@ button:hover {
   transform: scale(1.05);
 }
 
+/* Estilo para os rótulos */
 label {
   display: block;
   margin: 10px 0 5px;
   color: #003366;
+  text-align: center;
+}
+
+/* Estilo para os campos de entrada e seleção */
+input, select {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Estilo para as listas de alimentos e exercícios */
+#food-list, #exercise-list {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e6e6e6;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#food-list li, #exercise-list li {
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#food-list li:last-child, #exercise-list li:last-child {
+  border-bottom: none;
+}
+
+/* Estilo para o botão de remoção */
+.remove-button {
+  background-color: #ff4d4d;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.remove-button:hover {
+  background-color: #cc0000;
+}
+
+/* Resumo de calorias */
+#calories-summary {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+
   text-align: center;
 }
 
