@@ -127,4 +127,4 @@ O desenvolvimento da segunda fase foi realizado por uma equipe dedicada, com as 
 
 ## **Contato** 📬  
 - **E-mail:** marcelopazetti90@gmail.com  
-- **GitHub:** [M-Pazetti/2a-Fase-PI-5-Semestre](https://github.com/M-Pazetti/2a-Fase-PI-5-Semestre)  
+- **GitHub:** https://github.com/M-Pazetti
