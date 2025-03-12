@@ -1,127 +1,109 @@
-# **SENAC GRUPO 19 - Apresenta o Conta Calorias!** 🥗📱  
+# Conta Calorias 🥗📱
 
-### **Equipe**  
-- **Alisson Davis Santana Santos**  
-- **Guilherme Lima Moreira**  
-- **Marcelo Pazetti**  
+## Equipe de Desenvolvimento
+- **Alisson Davis Santana Santos**
+- **Guilherme Lima Moreira**
+- **Marcelo Pazetti**
 
----
+## Sobre o Aplicativo
+O **Conta Calorias** é um aplicativo desenvolvido para auxiliar os usuários no monitoramento da ingestão calórica diária, oferecendo um controle eficiente sobre a saúde alimentar. O app permite que o usuário:
 
-## **Sobre o Aplicativo**  
-O **Conta Calorias** é um aplicativo desenvolvido para ajudar os usuários a monitorarem sua ingestão calórica diária e controlarem sua saúde de maneira simples e eficiente. O app permite que o usuário:  
+- **Calcule seu Índice de Massa Corporal (IMC)**
+- **Determine a ingestão calórica necessária com base em seu perfil**
+- **Acompanhe as calorias consumidas ao longo do dia**
 
-- Calcule o **Índice de Massa Corporal (IMC)**.  
-- Calcule a **ingestão calórica necessária** com base em seu perfil.  
-- Acompanhe as **calorias consumidas ao longo do dia**.  
+## Funcionalidades ✨
 
----
+- 🧮 **Cálculo do IMC**  
+  O aplicativo calcula o IMC do usuário com base em seu peso e altura, oferecendo uma análise rápida e precisa.
 
-## **Funcionalidades** ✨  
+- 🥑 **Calculadora de Calorias**  
+  Permite que o usuário insira informações como idade, sexo, peso, altura e nível de atividade física para calcular a ingestão calórica diária recomendada.
 
-### 🧮 **Cálculo do IMC:**  
-Calcula o IMC do usuário com base em seu peso e altura.  
+- 📋 **Registro de Alimentos**  
+  O usuário pode registrar os alimentos consumidos ao longo do dia, e o aplicativo calcula automaticamente as calorias ingeridas.
 
-### 🥑 **Calculadora de Calorias:**  
-Permite que o usuário insira informações como idade, sexo, peso, altura e nível de atividade física para calcular a ingestão calórica diária recomendada.  
+## Escopo do Trabalho 📋
 
-### 📋 **Registro de Alimentos:**  
-O usuário pode registrar os alimentos consumidos durante o dia e o app calcula automaticamente as calorias ingeridas.  
+### Visão do Produto 🎯
+O **Conta Calorias** foi projetado para ser uma solução prática e eficiente no controle da saúde alimentar. Seu objetivo é ajudar os usuários a monitorar suas calorias de maneira simples e acessível, ajudando na gestão da saúde física e mental.
 
----
+### Contextualização e Motivação 🌍
+Com o aumento das doenças relacionadas à má alimentação, como obesidade, diabetes e doenças cardiovasculares, a necessidade de ferramentas que permitam o monitoramento da dieta é crescente. O **Conta Calorias** busca simplificar e tornar acessível o processo de controle alimentar, ajudando a prevenir tais doenças e melhorar a qualidade de vida.
 
-## **Escopo do Trabalho** 📋  
+### Objetivos 🏆
+- **Proporcionar uma ferramenta acessível para controle do consumo de calorias.**
+- **Personalizar planos alimentares com base nos objetivos individuais dos usuários.**
+- **Gerar relatórios visuais** 📊 para que o usuário acompanhe seu progresso ao longo do tempo.
+- **Integrar com dispositivos externos**, como smartwatches ⌚ e balanças inteligentes, para um monitoramento mais preciso e completo.
 
-### **Visão do Produto Proposto** 🎯  
-O **Conta Calorias** é uma solução voltada à gestão e controle da saúde alimentar de usuários que desejam acompanhar de forma prática e eficiente o consumo diário de calorias.  
+## Partes Interessadas 🤝
 
-### **Contextualização e Motivação** 🌍  
-Com o aumento de problemas relacionados à má alimentação, como obesidade, diabetes e doenças cardiovasculares, cresce a demanda por ferramentas que ajudem as pessoas a monitorar suas dietas. O aplicativo visa simplificar essa tarefa.  
+- **Usuários Finais** 🧑‍🤝‍🧑  
+  Indivíduos preocupados com sua saúde, praticantes de atividades físicas e aqueles que desejam melhorar seus hábitos alimentares.
 
-### **Objetivos** 🏆  
-- Proporcionar uma ferramenta acessível para controle do consumo de calorias.  
-- Permitir personalização de planos alimentares baseados em objetivos individuais.  
-- Gerar relatórios visuais 📊 para acompanhamento do progresso.  
-- Integrar funcionalidades com dispositivos externos, como smartwatches ⌚ ou balanças inteligentes.  
+- **Profissionais da Saúde** 👩‍⚕️  
+  Nutricionistas, médicos e outros profissionais que utilizam o app como uma ferramenta complementar no acompanhamento de seus pacientes.
 
----
+- **Desenvolvedores** 💻💰  
+  Equipe técnica e financiadores interessados no aprimoramento contínuo e expansão do aplicativo.
 
-## **Partes Interessadas** 🤝  
+## KPIs de Engajamento do Usuário 📈
 
-### **Usuários Finais** 🧑‍🤝‍🧑  
-- Indivíduos preocupados com a saúde.  
-- Atletas ou praticantes de atividades físicas.  
+- **Engajamento**  
+  - Número de Usuários Ativos Diários (DAU): 🗓️  
+  - Número de Usuários Ativos Mensais (MAU): 🗓️  
+  - Tempo Médio de Sessão: ⏳  
+  - Frequência de Registro de Alimentos: 🍎  
+  - Frequência de Checagem de Metas: 🎯  
 
-### **Profissionais da Saúde** 👩‍⚕️  
-- Nutricionistas e médicos que utilizam o app como ferramenta complementar.  
+- **Aquisição e Retenção**  
+  - Taxa de Retenção de Usuários: 🎡  
+  - Taxa de Conversão de Novos Usuários: 🆕  
+  - Taxa de Desinstalação: ❌
 
-### **Desenvolvedores** 💻💰  
-- Equipe de desenvolvimento e financiadores interessados na evolução do produto.  
+## Problemas Resolvidos pelo Aplicativo 🛠️
 
----
+- 🍔❌ **Falta de Controle sobre a Alimentação**  
+  Ferramentas para registro detalhado de alimentos, cálculo automático de calorias e macronutrientes ajudam a manter o controle.
 
-## **KPIs de Engajamento do Usuário** 📈  
+- 🏋️‍♀️📊 **Dificuldade em Atingir Metas de Saúde**  
+  O app personaliza metas alimentares e auxilia os usuários a monitorar o progresso, fornecendo estratégias alimentares para atingir objetivos como emagrecimento ou ganho muscular.
 
-### **Engajamento**  
-- **Número de Usuários Ativos Diários (DAU):** 🗓️  
-- **Número de Usuários Ativos Mensais (MAU):** 🗓️  
-- **Tempo Médio de Sessão:** ⏳  
-- **Frequência de Registro de Alimentos:** 🍎  
-- **Frequência de Checagem de Metas:** 🎯  
+## Projeto ContaCalorias - Fase 2
 
-### **Aquisição e Retenção**  
-- **Taxa de Retenção de Usuários:** 🎡  
-- **Taxa de Conversão de Novos Usuários:** 🆕  
-- **Taxa de Desinstalação:** ❌  
+Este repositório contém a **segunda fase** do desenvolvimento do aplicativo **ContaCalorias**. O objetivo principal dessa fase é consolidar as funcionalidades iniciais e integrar os cálculos de IMC e ingestão calórica com a interface do aplicativo, utilizando a estrutura **.NET MAUI** para garantir compatibilidade com diferentes plataformas (Windows, Android e iOS).
 
----
+### Funcionalidades Implementadas
 
-## **Problemas Resolvidos pelo Aplicativo** 🛠️  
+1. **Calculadora de IMC**  
+   O usuário pode inserir seu peso e altura para calcular o IMC e visualizar sua classificação (Abaixo do peso, Peso normal, Sobrepeso, Obesidade).
 
-### 🍔❌ **Falta de Controle sobre a Alimentação**  
-Ferramentas para registro detalhado de alimentos, cálculo automático de calorias e macronutrientes.  
-
-### 🏋️‍♀️📊 **Dificuldade em Atingir Metas de Saúde**  
-Personaliza objetivos e ajuda a monitorar progressos diários, oferecendo estratégias alimentares baseadas em metas claras, como emagrecimento ou ganho muscular.  
-
----
-
-# Projeto ContaCalorias - Fase 2
-
-Este repositório contém a segunda fase do desenvolvimento do aplicativo **ContaCalorias**, um projeto de saúde e bem-estar que permite calcular o IMC, registrar alimentos ingeridos e exercícios realizados, além de calcular o saldo de calorias diárias.
-
-## Descrição do Projeto
-
-Na segunda fase do projeto, o objetivo é consolidar as funcionalidades iniciais implementadas, integrando os cálculos de IMC e calorias com a interface e lógica do aplicativo. O foco também é na integração da parte de interface com a estrutura do **.NET MAUI**, garantindo a funcionalidade completa para diferentes plataformas (Windows, Android e iOS).
-
-## Funcionalidades Implementadas
-
-### 1. Calculadora de IMC:
-- Permite ao usuário inserir peso e altura para calcular o IMC (Índice de Massa Corporal).
-- Exibe a classificação do IMC de acordo com os resultados calculados (Abaixo do peso, Peso normal, Sobrepeso, Obesidade).
-
-### 2. Calculadora de Calorias:
-- O usuário pode adicionar alimentos consumidos e calcular as calorias ingeridas.
-- O usuário também pode registrar os exercícios realizados e calcular as calorias queimadas.
-- O saldo de calorias (ingeridas vs queimadas) é atualizado em tempo real.
+2. **Calculadora de Calorias**  
+   - O usuário registra os alimentos consumidos e o app calcula as calorias ingeridas.
+   - Também é possível registrar exercícios realizados para calcular as calorias queimadas.
+   - O saldo de calorias (ingeridas vs. queimadas) é atualizado em tempo real.
 
 ## Equipe de Desenvolvimento
 
-O desenvolvimento da segunda fase foi realizado por uma equipe dedicada, com as seguintes responsabilidades:
+A equipe responsável pela segunda fase do projeto inclui:
 
-- **Marcelo Pazetti**: Responsável pela integração do código HTML, CSS e JavaScript ao projeto principal. Também prestou suporte na implementação da interface no **.NET MAUI** e gerenciou o repositório no GitHub.
-  
-- **Allison Davis Santana Santos**: Focou na configuração do **.NET MAUI**, criando a estrutura do aplicativo no Visual Studio para Windows, Android e iOS. Além disso, converteu o HTML/CSS para XAML e integrou ao **.NET MAUI**.
-
-- **Guilherme Lima Moreira**: Trabalhou na implementação do banco de dados (SQLite ou outra solução compatível com **.NET MAUI**), implementou a lógica do aplicativo utilizando **C#**.
+- **Marcelo Pazetti**: Responsável pela integração de HTML, CSS e JavaScript ao projeto principal. Também colaborou na implementação da interface no .NET MAUI e gerenciou o repositório no GitHub.
+- **Alisson Davis Santana Santos**: Focou na configuração do .NET MAUI, criando a estrutura do aplicativo para as plataformas Windows, Android e iOS, além de converter o HTML/CSS para XAML.
+- **Guilherme Lima Moreira**: Implementou o banco de dados (SQLite ou outra solução compatível com .NET MAUI), além de desenvolver a lógica do aplicativo em C#.
 
 ## Tecnologias Utilizadas
 
-- **HTML/CSS/JavaScript**: Para a construção e funcionalidade da interface web inicial.
-- **.NET MAUI**: Para criar a versão multiplataforma do aplicativo (Windows, Android, iOS).
-- **C#**: Para a lógica do aplicativo e gerenciamento de estados.
-- **SQLite**: Banco de dados para armazenamento local de dados do usuário.
+- **HTML/CSS/JavaScript**: Para a construção da interface web inicial.
+- **.NET MAUI**: Framework multiplataforma para a construção do aplicativo (Windows, Android, iOS).
+- **C#**: Linguagem utilizada para a lógica do aplicativo e gerenciamento de estados.
+- **SQLite**: Banco de dados local para armazenamento de dados dos usuários.
 - **GitHub**: Para versionamento de código e colaboração entre os membros da equipe.
 
-## **Contato** 📬  
-- **E-mail:** marcelopazetti90@gmail.com  
-- **GitHub:** https://github.com/M-Pazetti
+## Contato 📬
+
+- **E-mail**: [marcelopazetti90@gmail.com](mailto:marcelopazetti90@gmail.com)
+- **GitHub**: [https://github.com/M-Pazetti](https://github.com/M-Pazetti)
+
+---
+
