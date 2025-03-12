@@ -11,4 +11,4 @@
 - **Implementação das páginas em XAML**: Converter o **HTML/CSS** para **XAML** e integrar ao **.NET MAUI**.    
 
 ## Guilherme Lima Moreira  
-- **Banco de Dados**: Implementação do banco de dados **SQLite** compatível com **.NET MAUI**. Desenvolveu a parte lógica em C# para integrar ao bamco de dados.
+- **Banco de Dados**: Implementação do banco de dados **SQLite** compatível com **.NET MAUI**. Desenvolveu a parte lógica em **C#** para integrar ao banco de dados.
