@@ -2,7 +2,6 @@
 
 ### **Equipe**  
 - **Alisson Davis Santana Santos**  
-- **Diego Oliveira Souza**  
 - **Guilherme Lima Moreira**  
 - **Marcelo Pazetti**  
 
@@ -55,7 +54,7 @@ Com o aumento de problemas relacionados à má alimentação, como obesidade, di
 ### **Profissionais da Saúde** 👩‍⚕️  
 - Nutricionistas e médicos que utilizam o app como ferramenta complementar.  
 
-### **Desenvolvedores e Investidores** 💻💰  
+### **Desenvolvedores** 💻💰  
 - Equipe de desenvolvimento e financiadores interessados na evolução do produto.  
 
 ---
@@ -109,13 +108,11 @@ Na segunda fase do projeto, o objetivo é consolidar as funcionalidades iniciais
 
 O desenvolvimento da segunda fase foi realizado por uma equipe dedicada, com as seguintes responsabilidades:
 
-- **Marcelo Pazetti**: Responsável pela revisão e integração do código HTML, CSS e JavaScript ao projeto principal. Também prestou suporte na implementação da interface no **.NET MAUI** e gerenciou o repositório no GitHub.
+- **Marcelo Pazetti**: Responsável pela integração do código HTML, CSS e JavaScript ao projeto principal. Também prestou suporte na implementação da interface no **.NET MAUI** e gerenciou o repositório no GitHub.
   
 - **Allison Davis Santana Santos**: Focou na configuração do **.NET MAUI**, criando a estrutura do aplicativo no Visual Studio para Windows, Android e iOS. Além disso, converteu o HTML/CSS para XAML e integrou ao **.NET MAUI**.
-  
-- **Diego Oliveira Souza**: Implementou a lógica do aplicativo utilizando **C#**. Garantiu o gerenciamento de estados do aplicativo e foi responsável por realizar testes e depuração, solucionando bugs e garantindo o funcionamento adequado em todas as plataformas.
 
-- **Guilherme Lima Moreira**: Trabalhou na implementação do banco de dados (SQLite ou outra solução compatível com **.NET MAUI**) e na integração com APIs externas, caso necessário. Também contribuiu para a criação da documentação e preparação para publicação.
+- **Guilherme Lima Moreira**: Trabalhou na implementação do banco de dados (SQLite ou outra solução compatível com **.NET MAUI**), implementou a lógica do aplicativo utilizando **C#**.
 
 ## Tecnologias Utilizadas
 
